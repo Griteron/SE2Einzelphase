@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SE2.1</string>
+    <string name="string_check">String check</string>
+    <string name="eingabe_string">Eingabe String:</string>
+    <string name="palindrom">Palindrom?</string>
+    <string name="stringeingabe">String >= 5 Zeichen</string>
+    <string name="ausgabe"></string>
+</resources>
